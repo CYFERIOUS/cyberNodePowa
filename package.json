@@ -1,0 +1,16 @@
+{
+  "name": "nodemaster",
+  "version": "1.0.0",
+  "description": "mytrainingInNode",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "node",
+    "master",
+    "fercho"
+  ],
+  "author": "Fernando Nossa",
+  "license": "ISC"
+}
